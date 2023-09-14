@@ -43,11 +43,14 @@
     "esm": "^3.2.25",
     "lerna": "^4.0.0",
     "microbundle": "^0.14.2",
+    "nx": "16.8.1",
     "only-allow": "^1.0.0",
     "servor": "^4.0.2",
     "syncpack": "^5.8.15",
     "uvu": "^0.5.2",
-    "watchlist": "^0.3.1",
-    "nx": "16.8.1"
+    "watchlist": "^0.3.1"
+  },
+  "dependencies": {
+    "@nx/js": "^16.8.1"
   }
 }
