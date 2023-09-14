@@ -27,5 +27,8 @@
   },
   "keywords": [],
   "author": "DavidWells",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pokesay": "1.1.3"
+  }
 }

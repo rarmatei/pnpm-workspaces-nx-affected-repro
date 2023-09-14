@@ -27,5 +27,8 @@
   },
   "keywords": [],
   "author": "DavidWells",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "1.5.0"
+  }
 }
