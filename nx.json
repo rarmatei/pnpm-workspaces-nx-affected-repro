@@ -1,0 +1,17 @@
+{
+  "tasksRunnerOptions": {
+    "default": {
+      "runner": "nx/tasks-runners/default",
+      "options": {
+        "cacheableOperations": [
+          "build",
+          "build:package",
+          "build:browser"
+        ]
+      }
+    }
+  },
+  "affected": {
+    "defaultBase": "master"
+  }
+}
