@@ -78,6 +78,8 @@ importers:
 
   src/packages/package-d: {}
 
+  src/packages/package-e: {}
+
 packages:
 
   /@ampproject/remapping@2.2.1:
