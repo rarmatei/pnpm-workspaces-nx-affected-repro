@@ -13,5 +13,14 @@
   },
   "affected": {
     "defaultBase": "master"
+  },
+  "targetDefaults": {
+    "build": {
+      "inputs": [
+        {
+          "externalDependencies": ["concurrently"]
+        }
+      ]
+    }
   }
 }
